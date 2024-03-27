@@ -1,0 +1,14 @@
+Objectives:
+1) Whats Difficult with forms
+2) Handling Form Submission & Validating user input
+3) Using Built in Features
+4) Building Custom Solutions
+
+
+
+1) Whats Difficult with forms
+Form is a collection of input ,label and button wraped with form
+- Form submission
+- Input validation (tricky)
+
+Thre kind of validation 1) validate on every keystroke 2)on lost focus 3) on form submission
